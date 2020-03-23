@@ -13,3 +13,8 @@ Curated collection of URLs
 ## Registrations
 
 - [Simple Login](https://app.simplelogin.io)
+
+
+## List of personal websites
+
+- [List](https://news.ycombinator.com/item?id=21737529)
