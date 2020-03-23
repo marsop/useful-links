@@ -9,3 +9,7 @@ Curated collection of URLs
 ## Tech Stacks
 
 - [Built with](http://builtwith.com)
+
+## Registrations
+
+- [Simple Login](https://app.simplelogin.io)
