@@ -24,3 +24,7 @@ Curated collection of URLs
 ## List of personal websites
 
 - [List](https://news.ycombinator.com/item?id=21737529)
+
+## .NET
+
+- [Clean Architecture in .NET Core 3.1](https://www.codewithmukesh.com/project/clean-architecture-with-aspnet-core-webapi/)
